@@ -1,2 +1,1 @@
-# tutorial
-Changes to the README like in the tutorial
+This README is different from the original
